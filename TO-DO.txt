@@ -1,2 +1,3 @@
 1. Add screenshots
 2. Make code cleaner
+3. Make a readme file and explain everything clearly
