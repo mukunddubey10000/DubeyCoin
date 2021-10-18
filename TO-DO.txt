@@ -1,0 +1,2 @@
+1. Add screenshots
+2. Make code cleaner
