@@ -187,11 +187,11 @@ def replace_chain():
     if is_chain_replaced == True :
         #if nodes had different chains then it'll be replaced by the longest one
         response = {'message': 'Replaced!!',
-                    'new_chain':blockchain.chain()
+                    'new_chain':blockchain.chain
                     }
     else :
         response = {'message': 'Not replaced!!',
-                    'chain':blockchain.chain()
+                    'chain':blockchain.chain
                     }
     return jsonify(response), 200
 #to run app
