@@ -64,3 +64,9 @@ Enter the port number of others, not your port number. For instances, if we want
 ```
 ## Screenshots
 ![](Screenshots/File1.png)
+![](Screenshots/File2.png)
+![](Screenshots/File3.png)
+![](Screenshots/connect_node.png)
+![](Screenshots/get_chain.png)
+![](Screenshots/is_valid.png)
+![](Screenshots/mine_block.png)
