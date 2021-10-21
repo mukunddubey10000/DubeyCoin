@@ -41,7 +41,7 @@ these files contains same code but with different port as they are miners and us
 Open Anaconda -> Spyder.
 Open 3 files dubeycoin_node_5001.py, dubeycoin_node_5002.py, dubeycoin_node_5003.py and then run these on different terminals as shown in the screenshots. 
 Run Postman and open 3 new terminals.
-*These files will be running on 3 different ports : "http://127.0.0.1:5001", "http://127.0.0.1:5002" and "http://127.0.0.1:5003"*
+*These files will be running on 3 different ports : "http://0.0.0.0:5001", "http://0.0.0.0:5002" and "http://0.0.0.0:5003"*
 1. __Get chain__ : To use this select GET and type "http://127.0.0.1:5001/get_chain" to get the chain of the user running at port 5001. Similar could be done for ports 5002 and 5003.
 2. __Is chain valid__ : To use this select GET and type "http://127.0.0.1:5001/is_valid" to check the validity of the chain at port 5001. SImilarly check the chain at ports 5002 and 5003.
 3. __Mine a block__ : To mine a block select GET and simply type "http://127.0.0.1:5001/mine_block" and if mining is successfull then a message "Congratulations! You mined a block!" would be display.
