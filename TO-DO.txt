@@ -1,4 +1,1 @@
-1. Add screenshots
-2. Make code cleaner
-3. Make a readme file and explain everything clearly
-4. Add a symbol for Dubey-Coin
+1. Make a youtube video and better display?
